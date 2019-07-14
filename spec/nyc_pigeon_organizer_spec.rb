@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe "NYC Pigeon Organizer" do
-
+@result.class = Hash
   describe "#nyc_pigeon_organizer" do
 
     before(:all) do
